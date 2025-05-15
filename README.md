@@ -1,7 +1,7 @@
 This is the Mathematica code used in my Master's thesis: Calculating Transition Rates via Quantum Normal Forms, completed at the University of Groningen, Faculty of Science and Engineering, van Swinderen Institute. The code was developed by Giovanni van Marion.
 
 QNF Code: Program that puts the Hamiltonian, for any finite-dimensional mechanical system, in classical (or quantum) normal form.
-          There is a version that (v1) that words near a minimum and one that that works near a saddle (v2).
+          There is a version (v1) that works near a minimum and one that that works near a saddle (v2).
           This second version of the program also computes the rate over the saddle by assuming that the minimum is completely harmonic (no interactions).
           It is also possible to use both program versions together to compute the rate for any system precisely.
           Utils.nb comprises the modules associated with calculating the normal form of the given Hamiltonian.
